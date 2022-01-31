@@ -25,8 +25,9 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jithinjerome&theme=nightowl&show_icons=true&locale=en&layout=demo" alt="jithinjerome" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithinjerome&theme=nightowl&show" alt="jithinjerome" /></p>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjerome&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jithinjerome&theme=nightowl&show" alt="jithinjerome" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jithinjerome&theme=nightowl&show_icons=true&locale=en" alt="jithinjerome" /></p>
 
